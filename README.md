@@ -5,7 +5,7 @@
 
 ## 👤 About Me
 - **High school diploma**  
-I developed foundational web projects using **HTML** and **CSS**, including a curriculum template and a personal interest blog.
+I developed foundational and basic web projects using **HTML** and **CSS**, including a curriculum template and a personal interest blog.
 - Fascinated by **data science** and **web development**
 - Currently focused on the world of **Machine Learning** and **Artificial Intelligence**, a new field that I'm exploring and mastering.
 - Prepared in **complex group management** and **effective collaboration**, honed through years in the Scout movement.
@@ -30,29 +30,3 @@ system architecture for future implementation. **No code on this project**.
 *...currently in progress*
 - **UniGest - University domain management with a Javafx interface**  
 *...currently in progress*
-
-
-
-
-<!--
-## 📩 How to reach me:
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/tuo_username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tuo_username)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/tuo_username)
-
-<br/>
-
-**iannellicri/iannellicri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
