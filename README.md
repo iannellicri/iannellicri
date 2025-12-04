@@ -24,9 +24,5 @@ I developed foundational and basic web projects using **HTML** and **CSS**, incl
 <br/>
 
 ## Featured projects:
-- **Alcohol lock Project**  
-University project about the implementation of a Alcohol lock system for the drivers, using latest methodological, scientific and technical tools to define a detailed
-system architecture for future implementation. **No code on this project**.    
-*...currently in progress*
 - **UniGest - University domain management with a Javafx interface**  
 *...currently in progress*
